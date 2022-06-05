@@ -1,0 +1,10 @@
+{
+    "version": 1,
+    "mods": {
+        "gg.astral.astral": {
+            "mod_file_urls": [
+                "https://raw.githubusercontent.com/Astral-Mods/Astral.Database/main/gg.astral.astral.json"
+            ]
+        }
+    }
+}

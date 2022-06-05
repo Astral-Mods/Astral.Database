@@ -1,0 +1,12 @@
+{
+    "display_name": "Astral",
+    "versions": {
+        "0.1.0": {
+            "game_version": "*",
+            "download_link": "0.1.0.dll",
+            "dependencies": {
+                "gg.reactor.api": "1.2.6"
+            }
+        }
+    }
+}
